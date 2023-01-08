@@ -1,5 +1,6 @@
 # explicação da regra de negocio do projeto:
-aaaaaaaaaaa
+a ideia deste projeto é facilitar na criação exclusão e busca de 'objetos' dentro de um servidor, como por exemplo a busca por um nome de livro, cliente, etc.
+
 
 
 
